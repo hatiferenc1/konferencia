@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <limk rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
     <title>SEO Konferencia</title>
 </head>
 <body>
@@ -22,7 +22,7 @@
     <ul>
         <li><a href='./'>Kezdőoldal</a></li>
         <li><a href='./'>Rólunk</a></li>
-        <li><a href='./'>Űrlap</a></li>
+        <li><a href='./?p=urlap'>Űrlap</a></li>
         
         <li style='float:right'><a class='active' href='#about'>Profil</a></li>
     </ul>
