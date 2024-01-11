@@ -2,7 +2,7 @@
 
     $server = "localhost";
     $user = "root";
-    $dbpw = "";
+    $dbpw = "Fecookaa0077";
     $db = "konferencia";
 
     $adb = mysqli_connect($server, $user, $dbpw, $db);
